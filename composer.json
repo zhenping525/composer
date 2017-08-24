@@ -1,0 +1,14 @@
+{
+    "name": "zhenping525/composer",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhenping525",
+            "email": "zhenping525@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
